@@ -474,13 +474,12 @@ remain a small percentage of the overall stock. For example, only 18% of
 all vehicles[^4] purchased globally in 2023 are electric, and as of
 April 2023 the UK has only installed 380,000 heat pumps[^5].
 
-![](image6.png)
+![](/assets/images/reports/AI_for_decarbonisation_challenges/image6.png)
 
 *Figure 1. Installations of air source heat pumps (ASHP) and ground
 source or water source heat pumps (G/WSHP) in the UK from 2010 to 2022.
 Data from [MCS
 database](https://datadashboard.mcscertified.com/InstallationInsights).*
-
 One of the main barriers to adoption of new technologies is the lack of
 trust, especially in contrast to conventional boilers and vehicles which
 have known reliability and understanding. This is a challenge both with
