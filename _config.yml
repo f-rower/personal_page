@@ -23,6 +23,9 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+url: https://f-rower.github.io
+baseurl: "/personal_page"
+
 
 # Build settings
 markdown: kramdown
