@@ -609,7 +609,7 @@ the power system, 180-220 GW of grid-connected capacity will be needed
 by 2035, requiring 6 to 9 GWs to be installed per year[^10].
 
  
- ![totalgenerationscenario](/_pages/reports/AI_for_decarbonisation_challenges//images/image7.png) 
+ ![totalgenerationscenario](images/image7.png) 
  
 *Figure 2. Total electricity generation output for the \"Leading the
 Way\" future energy scenario. From National Grid, [Future Energy

@@ -62,9 +62,10 @@ plugins:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id          : "G-E9X7C80PVB"
+    tracking_id: "G-E9X7C80PVB"
+    anonymize_ip: false # default
 
 author:
   name   : "First Lastname"
