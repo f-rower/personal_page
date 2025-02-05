@@ -9,54 +9,41 @@ header:
 
 #excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'ADViCE is aimed at the development of innovative AI technologies to support the transition to Net Zero. 
+  - excerpt: 'ADViCE is dedicated to innovative AI technologies to support the transition to Net Zero. 
   This Knowledge Base is a collection of resources and content produced by the ADViCE team, related to the usage of AI for decarbonising high-emitting industries. 
   In here, you will find ADViCE reports, webinars, white papers, blog posts, and much more.'
 feature_row:
   - image_path: assets/images/reports-thumbnail.png
     alt: "ADViCE Reports"
     title: "ADViCE Reports"
-    url: "/reports/AI_for_decarbonisation_challenges"
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/reports/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/webinars-thumbnails.png
     #image_caption: "ADViCE Webinars"
     alt: "ADViCE Webinars"
     title: "ADViCE Webinars"
-    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/webinars/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/challenge-card-thumbnail.png
-    title: "Decarbonisation Challenges"
+    title: "Decarbonisation Challenge Cards"
     excerpt: "Try out ADViCE's Challenge Cards!"
-    url: "#test-link"
-    btn_label: "Challenge Cards"
+    url: "https://collaro-it.github.io/advice-challenge/"
+    btn_label: "Read More"
     btn_class: "btn--primary"
-
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+  - image_path: /assets/images/combine-harvester.jpg
+    alt: "ADViCE Blog"
+    title: "Blog"
+    url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+  - image_path: /assets/images/solar-panel.jpg
+    title: "Resources"
+    excerpt: "External reports, white papers, case studies, and other useful links related to AI for Decarbonisation"
+    url: "/resources/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
@@ -65,8 +52,4 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row2" %}

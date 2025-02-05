@@ -13,36 +13,6 @@ Dr Stephen Haben and Sam Young
 
 **December 2023**
 
-**Contents**
-
-[1. Executive Summary](#executive-summary)  
-[2. Introduction](#introduction)  
-[3. AI's role in Decarbonisation](#ais-role-in-decarbonisation)  
-[4. Challenges Selection Methodology](#challenges-selection-methodology)  
-&nbsp;&nbsp;&nbsp;&nbsp;[4.1. Sectors](#sectors)  
-&nbsp;&nbsp;&nbsp;&nbsp;[4.2. Identifying Challenges](#identifying-challenges)  
-&nbsp;&nbsp;&nbsp;&nbsp;[4.3. Phases](#phases)  
-&nbsp;&nbsp;&nbsp;&nbsp;[4.4. Scoring Criteria](#scoring-criteria)  
-&nbsp;&nbsp;&nbsp;&nbsp;[4.5. AI Capabilities](#ai-capabilities)  
-[5. The Grand Challenges](#the-grand-challenges)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5.1. Unlocking Domestic Decarbonisation (GC1)](#unlocking-domestic-decarbonisation-gc1)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5.2. Enabling Net Zero Infrastructure (GC2)](#enabling-net-zero-infrastructure-gc2)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5.3. Maximising Flexibility in Energy Networks (GC3)](#maximising-flexibility-in-energy-networks-gc3)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5.4. Decarbonising Manufacturing Inputs (GC4)](#decarbonising-manufacturing-inputs-gc4)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5.5. Manufacturing Process Efficiency (GC5)](#manufacturing-process-efficiency-gc5)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5.6. Optimising Soil Management (GC6)](#optimising-soil-management-gc6)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5.7. Minimising Methane in Agriculture (GC7)](#minimising-methane-in-agriculture-gc7)  
-[6. Next Steps](#next-steps)  
-[7. Appendix: Challenges Longlist](#appendix-challenges-longlist)
-&nbsp;&nbsp;&nbsp;&nbsp;[7.1 Energy Challenges](#energy-challenges-longlist)  
-&nbsp;&nbsp;&nbsp;&nbsp;[7.2. Manufacturing Challenges](#manufacturing-challenges)  
-&nbsp;&nbsp;&nbsp;&nbsp;[7.3. Agriculture Challenges](#agriculture-challenges-longlist)  
-&nbsp;&nbsp;&nbsp;&nbsp;[7.4. Built Environment Challenges](#built-environment-challenges)  
-&nbsp;&nbsp;&nbsp;&nbsp;[7.5. General Challenges](#general-challenges)  
-[8. Appendix: Challenge Cards](#appendix-challenge-cards)  
-[9. Appendix: Challenge Selection Resources](#appendix-challenge-selection-resources)  
-[10. Acknowledgements](#acknowledgements)
-
 # Executive Summary
 
 As outlined in the ADViCE ecosystem report, many current applications of
