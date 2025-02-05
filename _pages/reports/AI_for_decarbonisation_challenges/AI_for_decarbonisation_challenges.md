@@ -3,7 +3,7 @@ title: "AI for Decarbonisation Challenges"
 layout: single
 #classes: wide
 toc: true
-toc_sticky: false
+toc_sticky: true
 toc_icon: "cog"
 permalink: /reports/AI_for_decarbonisation_challenges
 author_profile: false
@@ -726,7 +726,7 @@ the most of it (and balancing the system) therefore requires a
 combination of shifting demand to match generation and storing energy
 for future use.
 
-![](image8.png)
+![](images/image8.png)
 
 *Figure 3. Cost projections for different storage technologies over time.
 Taken from "Monetizing Energy Storage", Oliver Schmidt and Iain
@@ -865,7 +865,7 @@ fuel sources required for the production process (e.g. see Figure 3, for
 fuel split for cement kiln heating), and feedstocks (i.e., raw
 materials) used to create the manufactured outputs.
 
-![fig4](image9.png)
+![fig4](images/image9.png)
 
 *Figure 4. Fuel split for heating of UK cement kilns in 2010. Taken [from
 Industrial energy use and carbon emissions reduction: a UK
@@ -1015,7 +1015,7 @@ solutions are likely to be suboptimal; and energy inefficiencies cannot
 be identified. This is particularly likely for SME manufacturers. 
 
 ![A graph of energy saving by heat recovery Description automatically
-generated](image10.png)
+generated](images/image10.png)
 
 Figure 5. Example of possible energy savings estimates (gigajoules per
 tonne) in the steel production supply chain based on different heat
@@ -1148,7 +1148,7 @@ fertilisers, tillage and irrigation practices, use of biochar (materials
 carbonised over high temperatures), nutrient management and different
 crop rotations^32,^[^33].
 
-![Fig6](image11.png)
+![Fig6](images/image11.png)
 
 Figure 6. Breakdown of total greenhouse gas emissions (in metric tons of
 carbon dioxide equivalent) from agriculture and comparison of 1990 to
@@ -1286,7 +1286,7 @@ the need for healthy and similar plant-based meat and dairy
 alternatives, but also making it easier to adopt a non-meat diet without
 losing any nutritional benefits[^40].  
 
-![Fig7](image12.svg)
+![Fig7](images/image12.svg)
 
 Figure 7. Total and breakdown of methane gas emissions from UK
 agriculture. From [Agri-climate report
@@ -2708,12 +2708,12 @@ cards are shown below.
 ## Challenges cards
 
 
-![Fig14](image14.png "title-1") ![Fig15](image15.png "title-2")
+![Fig14](images/image14.png "title-1") ![Fig15](images/image15.png "title-2")
 
 *Example of the challenge cards for  Agriculture (left), and Manufacturing (right) Sectors.*
 
 
-  ![Fig16](image16.png)  ![Fig17](image17.png)
+  ![Fig16](images/image16.png)  ![Fig17](images/image17.png)
 
 *Example of the challenge cards for Energy (left), and Built Environment (right) Sectors.*
 
@@ -2722,22 +2722,22 @@ The top left symbol on the cards correspond to the following phases:
 
 | Symbol    | Phase |
 | -------- | ------- |
-| ![Fig18](image18.png)  | Design and Planning     |
-| ![Fig19](image19.png)  | Management and Operation     |
-| ![Fig20](image20.png)     | Mainenance and Anomaly Detection    |
-|    ![Fig21](image21.png)       | Incentives and Consumer Support |
+| ![Fig18](images/image18.png)  | Design and Planning     |
+| ![Fig19](images/image19.png)  | Management and Operation     |
+| ![Fig20](images/image20.png)     | Mainenance and Anomaly Detection    |
+|    ![Fig21](images/image21.png)       | Incentives and Consumer Support |
  -------
 
 The (up to maximum 3) symbols under the phase correspond to the corresponding AI capabilities as defined in the following table:
 
 | Symbol    | AI Capability |
 | -------- | ------- |
-| ![Fig22](image22.png)  | Visual    |
-| ![Fig23](image23.png)  | Time Series    |
-| ![Fig24](image24.png)  | Geospatial    |
-| ![Fig25](image25.png)  | Optimisation |
-| ![Fig26](image26.png)  | Language |
-| ![Fig27](image27.png)  | Other Machine Learning |
+| ![Fig22](images/image22.png)  | Visual    |
+| ![Fig23](images/image23.png)  | Time Series    |
+| ![Fig24](images/image24.png)  | Geospatial    |
+| ![Fig25](images/image25.png)  | Optimisation |
+| ![Fig26](images/image26.png)  | Language |
+| ![Fig27](images/image27.png)  | Other Machine Learning |
 
 
 
@@ -3012,8 +3012,8 @@ different mode or format. 'You' means the natural or legal person, or
 body of persons corporate or incorporate, acquiring rights under this
 licence.
 
-![](image3.png){width="1.9791666666666667in"
-height="0.6458333333333334in"}![](image1.png){width="8.3125in"
+![](images/image3.png){width="1.9791666666666667in"
+height="0.6458333333333334in"}![](images/image1.png){width="8.3125in"
 height="11.763194444444444in"}
 
 [^1]: [A Guide to Decarbonisation of

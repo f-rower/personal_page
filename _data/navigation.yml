@@ -4,7 +4,7 @@ main:
   - title: "Reports"
     url: /reports/
   - title: "Challenges"
-    url: /challenges/  
+    url: "https://collaro-it.github.io/advice-challenge/" 
   - title: "Webinars"
     url: /webinars/
   - title: "Resources"
@@ -12,7 +12,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Forum"
-    url: /forum/
+    url: https://github.com/alan-turing-institute/ADViCE/discussions
   - title: "Community Guidelines"
     url: /community_guidelines/
   - title: "News and Announcements"
